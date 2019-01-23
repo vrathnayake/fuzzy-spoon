@@ -1,0 +1,5 @@
+This document is a guide for installing Arch Linux from the live system booted with the official installation image. Before installing, it would be advised to view the FAQ. For conventions used in this document, see Help:Reading. In particular, code examples may contain placeholders (formatted in italics) that must be replaced manually.
+
+For more detailed instructions, see the respective ArchWiki articles or the various programs' man pages, both linked from this guide. For interactive help, the IRC channel and the forums are also available.
+
+Arch Linux should run on any x86_64-compatible machine with a minimum of 512 MB RAM. A basic installation with all packages from the base group should take less than 800 MB of disk space. As the installation process needs to retrieve packages from a remote repository, this guide assumes a working internet connection is available.
